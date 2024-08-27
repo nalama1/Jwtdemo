@@ -4,9 +4,9 @@ Packages -
 
 
 INSOMNIA:
-POST:
-http://localhost:5030/api/auth/login
-JSON
+1. POST:
+2. http://localhost:5030/api/auth/login
+3. JSON
 {
   "username": "user",
   "password": "password"
