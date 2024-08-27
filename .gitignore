@@ -1,0 +1,9 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.vcxproj.user
+*.vcxproj.filters
+*.log
+*.tlog
+*.vscode/
